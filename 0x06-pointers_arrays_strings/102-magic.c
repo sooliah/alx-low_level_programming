@@ -13,7 +13,7 @@ int main(void)
 	 * Remember:
 	 * - you are not allowed to use a
 	 * - you are no allowed to modify p
-	 * - only one staement
+	 * - only one statement
 	 * - you are not allowed to code anything else than this line of code
 	 */
 	p[5] = 98;
