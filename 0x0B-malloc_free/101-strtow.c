@@ -4,7 +4,7 @@
 /**
  * ch_free_grid - frees a 2 dimensional array.
  * @grid: multidimensional array of char.
- * @height: weight of the array.
+ * @height: height of the array.
  * Return: no return
  */
 void ch_free_grid(char **grid, unsigned int height)
