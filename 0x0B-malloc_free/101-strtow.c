@@ -3,7 +3,7 @@
 
 /**
  * ch_free_grid - frees a 2 dimensional array.
- * @grid: multiplicational array of char.
+ * @grid: multidimensional array of char.
  * @height: weight of the array.
  * Return: no return
  */
