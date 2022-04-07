@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * argsostr - concatenate all the argument of a program.
+ * argstostr - concatenate all the argument of a program.
  * @ac: argument count.
  * @av: argument vector.
  * Return: pointer of an array of char
